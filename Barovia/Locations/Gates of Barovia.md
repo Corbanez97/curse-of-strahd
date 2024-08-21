@@ -1,0 +1,6 @@
+_A névoa trasborda da floresta para engolir a [[The Old Svalich Road|estrada]] atrás de vocês. Em frente, saindo dos impenetráveis bosques de ambos lados da [[The Old Svalich Road|estrada]], aparecem os principais contrafortes de pedra que se aproximam da neblina. Grandes portões de ferro suspensos na pedra. O orvalho se apega com tenacidade fria às barras enferrujadas. Duas estátuas de guardiões armados decapitados flanqueiam o portão, suas cabeças agora jazem entre as ervas daninhas aos seus pés. Eles recebem vocês apenas com silêncio._ 
+
+![[Gates of Barovia.jpg]]
+- Vindo do leste os portões se abrem e se fecham atrás dos personagens depois que passarem. 
+- Os portões não se abrem para alguém que esteja tentando abandonar o domínio de [[Strahd von Zarovich]], a menos que estejam acompanhados por vagões [[Vistanis]]. Porém, a [[The Lands of Barovia#Mists of Ravenloft|neblina]] bloqueia qualquer não-Vistanis que atravesse os portões ou as fronteiras ao redor deles quando estiverem fechados.
+- Se [[Strahd von Zarovich]] for derrotado os portões permanecerão abertos e o [[The Lands of Barovia#Mists of Ravenloft|nevoeiro]] guia os aventureiros para o local desejado.

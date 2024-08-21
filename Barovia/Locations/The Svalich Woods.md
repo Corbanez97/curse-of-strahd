@@ -1,0 +1,11 @@
+_Árvores elevadas, cujos topos estão perdidos em uma forte [[The Lands of Barovia#Mists of Ravenloft|névoa]] cinzenta, bloqueiam tudo, exceto uma decadente luz cinzenta. Os troncos das árvores são anormalmente próximos uns dos outros, e os bosques têm o silêncio de uma sepultura esquecida, mas exalam a sensação de um grito mudo_
+
+A oeste do [[Gates of Barovia|Portão de Barovia]], os aventureiros poderão viajar sem problema algum até a [[Village of Barovia|Vila de Barovia]] se estiverem acompanhando vagões [[Vistanis]]. Se estiverem seguindo a pé, o personagem com maior percepção passiva percebe _um perfume de morte no ar_. 
+
+_O odor desagradável leva vocês a um cadáver humano meio enterrado no mato a cerca de quatro metros e meio da estrada. O jovem parece ser um plebeu. Suas roupas enlameadas estão rasgadas e despedaçadas com marcas de garra. Corvos estiveram no corpo, que se encontra cercado pelas marcas de patas. O homem obviamente está morto há vários dias. Ele segura um envelope esfarrapado em uma de suas mãos._
+
+Este é [[Dalvan Olensky]], um homem tentando escapar de [[The Lands of Barovia|Barovia]] com uma [[Carta de Kolyan Indirovich|carta]] de seu mestre quando foi morto por [[Dire Wolf Stats.png|Lobos Atrozes]], os quais retornarão logo para o banquete. 
+
+A [[Carta de Kolyan Indirovich|carta]] na mão de [[Dalvan Olensky|Dalvan]] está frágil e desgastada com um grande símbolo "B" em seu selo de cera. As instruções para o mensageiro era colocar esta [[Carta de Kolyan Indirovich|carta]] nos [[Gates of Barovia|Portões de Barovia]] a fim que viajantes a encontrassem.
+
+Os personagens não podem permanecer mais que 5 rodadas dentro do [[The Svalich Woods|bosque]]. Após este período 5 [[Dire Wolf Stats.png|Lobos Atrozes]] chegam e atacam. Se os jogadores estão tentando deixar [[The Lands of Barovia|Barovia]], estes [[Dire Wolf Stats.png|lobos]] estarão acompanhados por 20 [[Wolf Stats.png|lobos]]. O ataque para se os jogadores voltarem em direção da [[Village of Barovia|Vila de Barovia]]. 
